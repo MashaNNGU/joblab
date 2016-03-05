@@ -6,9 +6,7 @@ using namespace std;
 int main()
     {
           int age,tr;
-          setlocale(LC_ALL,"Russian");
-           SetConsoleCP(1251);
-    SetConsoleOutputCP(1251);
+       
           // Âûââîäèòñÿ ñîîáùåíèå
           cout <<"Hello, World!\n";
           cin >> age;
